@@ -1,2 +1,5 @@
 # Current-seconds
-Current seconds code in JS 
+
+var seconds = (new Date()).getSeconds();
+console.log(second);
+// Sample output: 48
